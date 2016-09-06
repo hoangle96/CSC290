@@ -1,0 +1,4 @@
+//This is lab 1 week 1
+
+Given an array int[] arr = {1,3,4,5,7,9}. If an user add a new number in, put it in the right place in the array. If an user chooses to delete one number, delete one, keep others in order. 
+Then find two ways to find the index of an selected element in the array
